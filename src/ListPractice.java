@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class List {
+public class ListPractice {
     public static void main(String[] args) {
         ArrayList<String> fruits = new ArrayList<>();
         fruits.add("Mango");
